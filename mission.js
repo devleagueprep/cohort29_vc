@@ -28,6 +28,7 @@ var country = ['Japan, ', 'Bahamas, ','Italy, ','New York']
 
 //Mission 10: Janelle
 //Declare a variable named middleName and assign it to the middle name of the person sitting next to you.
+var middleName = 'Ceasar';
 
 //Mission 11: David
 //Declare a variable named kicks and assign it to the brand of shoes that you are currently wearing. 
