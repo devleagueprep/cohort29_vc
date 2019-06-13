@@ -21,6 +21,8 @@ const bank = "American Savings Bank";
 //Mission 7: Rina
 //Declare a variable named greeting and assign it to a Russian greeting for 'hello world'.
 
+let greeting = 'Привет, мир';
+
 //Mission 8: Calvin
 //Declare a variable named candyWrapper and assign it to a candy bar that has orange in its wrapper
 let candyWrapper = "Skittles";
