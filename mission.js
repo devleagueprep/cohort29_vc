@@ -40,4 +40,4 @@ var middleName = 'Ceasar';
 
 //Mission 14: Brian
 //Declare a variable named ronald and assign it to the number McDonald's restaurants in Hawaii.
-
+var ronald = 76;
