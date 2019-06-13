@@ -37,6 +37,8 @@
 //Mission 13: Daniel
 //Declare a variable named cheeseCake and assign it to the number of cheese cake flavors that CheeseCake Factory offers.
 
+var cheeseCake = 36;
+
 //Mission 14: Brian
 //Declare a variable named ronald and assign it to the number McDonald's restaurants in Hawaii.
 
