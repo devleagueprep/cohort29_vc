@@ -12,7 +12,7 @@
 
 //Mission 5: Kevin
 //Declare a variable named weather and assign it tomorrow's weather forecast.
-
+    var weather = ['86F','30C'];
 //Mission 6: Art
 //Declare a variable named country and assign it an array of 3 countries that you've visited (or want to visit).
 
