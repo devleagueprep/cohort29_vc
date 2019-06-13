@@ -30,7 +30,7 @@ let greeting = 'Привет, мир';
 let candyWrapper = "Skittles";
 //Mission 9: Phi
 //Declare a variable named beach and assign it to the number of beaches on Oahu.
-
+let beach = 125; // 'thats a fact!' - pewDiePie
 //Mission 10: Janelle
 //Declare a variable named middleName and assign it to the middle name of the person sitting next to you.
 var mName = 'Ceasar';
