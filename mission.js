@@ -30,6 +30,7 @@
 
 //Mission 11: David
 //Declare a variable named kicks and assign it to the brand of shoes that you are currently wearing. 
+var kicks = "nike react"
 
 //Mission 12: Keith
 //Declare a variable named chips and assign it to the potato chips that are currently on sale at Longs Drugs. 
