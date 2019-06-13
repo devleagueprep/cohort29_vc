@@ -7,6 +7,8 @@
 //Mission 3: Lewis
 //Declare a variable named bank and assign to your favorite Hawaii bank.
 
+const bank = "American Savings Bank";
+
 //Mission 4: Rian 
 //Declare a variable named price and assign the cost of a chicken katsu plate lunch from L&L Drive Inn.
 
