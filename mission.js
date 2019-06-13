@@ -4,6 +4,14 @@
 //Mission 2: Andrew
 //Declare a variable named giraffe and assign it an object with 5 key value pairs of your choosing.
 
+let giraffe = {
+    height: 2,
+    length: 4,
+    width: 3,
+    type: 'animal',
+    isAGiraffe: false
+}
+
 //Mission 3: Lewis
 //Declare a variable named bank and assign to your favorite Hawaii bank.
 
