@@ -1,6 +1,8 @@
 //Mission 1: Justin
 //Declare a variable named zippys and assign it an array of 5 items sold at Zippys Restaurant.
 
+var zippys = [zipPac, surfPac, koreanFriedChicken, koreanFriedChickenSalad, chickenKatsu];
+
 //Mission 2: Andrew
 //Declare a variable named giraffe and assign it an object with 5 key value pairs of your choosing.
 
