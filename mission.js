@@ -10,6 +10,8 @@
 //Mission 4: Rian 
 //Declare a variable named price and assign the cost of a chicken katsu plate lunch from L&L Drive Inn.
 
+let price = 'One million dollars';
+
 //Mission 5: Kevin
 //Declare a variable named weather and assign it tomorrow's weather forecast.
 
