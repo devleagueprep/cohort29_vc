@@ -33,7 +33,7 @@
 
 //Mission 12: Keith
 //Declare a variable named chips and assign it to the potato chips that are currently on sale at Longs Drugs. 
-
+var chips = 'Frito Lay Chips';
 //Mission 13: Daniel
 //Declare a variable named cheeseCake and assign it to the number of cheese cake flavors that CheeseCake Factory offers.
 
