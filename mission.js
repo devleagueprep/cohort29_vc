@@ -15,6 +15,7 @@
 
 //Mission 6: Art
 //Declare a variable named country and assign it an array of 3 countries that you've visited (or want to visit).
+var country = ['Japan, ', 'Bahamas, ','Italy']
 
 //Mission 7: Rina
 //Declare a variable named greeting and assign it to a Russian greeting for 'hello world'.
