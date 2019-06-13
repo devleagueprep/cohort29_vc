@@ -21,7 +21,7 @@
 
 //Mission 8: Calvin
 //Declare a variable named candyWrapper and assign it to a candy bar that has orange in its wrapper
-
+let candyWrapper = "Skittles";
 //Mission 9: Phi
 //Declare a variable named beach and assign it to the number of beaches on Oahu.
 
